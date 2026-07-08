@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next
+/out
+
+# env & secrets — NEVER commit these
+.env.local
+.env*.local
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+
+# vercel
+.vercel
+
+# workspace/system dirs (not part of the site)
+.config/
+.npm/
+.local/
+.cache/
+
+# packaged zip (build artifact — GitHub holds the real source)
+hh4us-website.zip
