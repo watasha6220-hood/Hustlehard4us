@@ -18,7 +18,7 @@
 
 const RESEND_API_KEY = Deno.env.get("RESEND_API_KEY")!;
 const OWNER_EMAIL = Deno.env.get("OWNER_EMAIL") || "orders@hustlehard4usdesigns.com";
-const FROM = "HH4US Designs <onboarding@resend.dev>"; // swap for your verified domain later
+const FROM = "HH4US Designs <orders@hustlehard4usdesigns.com>"; // verified domain ✓
 
 const gold = "#f5b52e";
 

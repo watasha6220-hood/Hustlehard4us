@@ -9,7 +9,7 @@ export const site = {
   tagline: "Bring Your Ideas to Life",
   description:
     "Custom printing for brands, events, and hustlers. T-shirts, banners, DTF gang sheets, embroidery, custom displays, and design services in Palmdale, CA.",
-  url: "https://www.hustlehard4usdesigns.com", // update when domain is live
+  url: "https://www.hustlehard4usdesigns.com",
 
   address: {
     street: "4654 Ave S, Suite #187",
