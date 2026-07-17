@@ -34,7 +34,7 @@ export default function CityPage({ params }) {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: site.name,
-    telephone: "+1-213-841-3068",
+    telephone: "+1-661-480-5275",
     url: `${site.url}/areas/${city.slug}`,
     address: {
       "@type": "PostalAddress",

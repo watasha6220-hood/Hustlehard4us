@@ -20,12 +20,12 @@ export const site = {
     full: "4654 Ave S, Suite #187, Palmdale, CA 93552",
   },
 
-  phone: "(213) 841-3068",
-  phoneHref: "tel:+12138413068",
-  smsHref: "sms:+12138413068",
+  phone: "(661) 480-5275",
+  phoneHref: "tel:+16614805275",
+  smsHref: "sms:+16614805275",
   // WhatsApp deep link — number in international format, no symbols
   whatsappHref:
-    "https://wa.me/12138413068?text=Hi%20HH4US%20Designs!%20I%27d%20like%20a%20quote%20for%20a%20custom%20printing%20project.",
+    "https://wa.me/16614805275?text=Hi%20HH4US%20Designs!%20I%27d%20like%20a%20quote%20for%20a%20custom%20printing%20project.",
   email: "orders@hustlehard4usdesigns.com", // update to your real inbox
 
   hours: [

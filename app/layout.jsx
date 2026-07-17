@@ -69,7 +69,7 @@ const jsonLd = {
   "@id": site.url,
   name: site.name,
   description: site.description,
-  telephone: "+1-213-841-3068",
+  telephone: "+1-661-480-5275",
   url: site.url,
   address: {
     "@type": "PostalAddress",
