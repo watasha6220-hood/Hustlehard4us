@@ -7,7 +7,7 @@ import { cities } from "@/data/cities";
 export const metadata = {
   title: "Service Areas — Antelope Valley & Beyond",
   description:
-    "Hustle Hard 4 US Designs serves Palmdale, Lancaster, Quartz Hill, Santa Clarita, Rosamond, and Littlerock with custom t-shirts, banners, DTF gang sheets, and embroidery.",
+    "Hustlehard4USDesigns serves Palmdale, Lancaster, Quartz Hill, Santa Clarita, Rosamond, and Littlerock with custom t-shirts, banners, DTF gang sheets, and embroidery.",
 };
 
 export default function AreasPage() {

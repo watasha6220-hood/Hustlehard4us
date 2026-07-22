@@ -5,7 +5,7 @@ import { Reveal } from "@/components/Section";
 export const metadata = {
   title: "Shop — Custom Apparel, Prints & Displays",
   description:
-    "Browse custom t-shirts, hoodies, embroidered hats, vinyl banners, DTF gang sheets, and event display packages from Hustle Hard 4 US Designs in Palmdale, CA.",
+    "Browse custom t-shirts, hoodies, embroidered hats, vinyl banners, DTF gang sheets, and event display packages from Hustlehard4USDesigns in Palmdale, CA.",
 };
 
 export default function ShopPage() {

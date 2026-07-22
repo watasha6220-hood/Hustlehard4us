@@ -4,7 +4,7 @@
 // ============================================================
 
 export const site = {
-  name: "Hustle Hard 4 US Designs",
+  name: "Hustlehard4USDesigns",
   shortName: "HH4US Designs",
   tagline: "Bring Your Ideas to Life",
   description:

@@ -18,7 +18,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Service",
   name: "3D Printing Service",
-  provider: { "@type": "LocalBusiness", name: "Hustle Hard 4 US Designs" },
+  provider: { "@type": "LocalBusiness", name: "Hustlehard4USDesigns" },
   areaServed: "Antelope Valley, CA",
   description:
     "Custom 3D printing: ready-made designs or customer-uploaded STL files in PLA, PETG, TPU, and resin.",

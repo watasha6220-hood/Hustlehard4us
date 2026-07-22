@@ -1,4 +1,4 @@
-# 💸 $0 Upgrade Roadmap — Hustle Hard 4 US Designs
+# 💸 $0 Upgrade Roadmap — Hustlehard4USDesigns
 
 Every item below is free (free tier or open source), ranked by impact-per-effort.
 ⚡ = do this week · 🔥 = big visual/conversion payoff · 🧰 = nice-to-have

@@ -7,7 +7,7 @@ import { site } from "@/data/site";
 import { services } from "@/data/services";
 
 export const metadata = {
-  title: "Impresión Personalizada en Palmdale, CA | Hustle Hard 4 US Designs",
+  title: "Impresión Personalizada en Palmdale, CA | Hustlehard4USDesigns",
   description:
     "Camisetas personalizadas, lonas, hojas DTF, bordado e impresión 3D en Palmdale, CA. Haz realidad tus ideas — cotización gratis. Se habla español.",
   alternates: { canonical: `${site.url}/es` },
@@ -35,7 +35,7 @@ export default function HomeEsPage() {
     <>
       {/* HERO */}
       <section className="relative flex min-h-[80vh] items-center overflow-hidden" aria-label="Principal">
-        <Image src="/images/hero.jpg" alt="Taller de impresión de Hustle Hard 4 US Designs" fill priority sizes="100vw" className="object-cover" />
+        <Image src="/images/hero.jpg" alt="Taller de impresión de Hustlehard4USDesigns" fill priority sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-r from-ink-950 via-ink-950/85 to-ink-950/30" aria-hidden="true" />
         <div className="absolute inset-0 bg-grit" aria-hidden="true" />
         <div className="container-x relative py-24">

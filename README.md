@@ -1,4 +1,4 @@
-# Hustle Hard 4 US Designs — Custom Printing Website
+# Hustlehard4USDesigns — Custom Printing Website
 
 A production-ready, mobile-first, SEO-optimized website built with **Next.js 14 (App Router)**, **Tailwind CSS**, and **Framer Motion**.
 

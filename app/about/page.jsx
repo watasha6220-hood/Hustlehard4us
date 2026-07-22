@@ -9,7 +9,7 @@ import { site } from "@/data/site";
 export const metadata = {
   title: "About Us — We Turn Your Vision Into Reality",
   description:
-    "Hustle Hard 4 US Designs is a Palmdale, CA custom print shop built by hustlers, for hustlers. Custom apparel, embroidery, and merchandise — no job too small or too large.",
+    "Hustlehard4USDesigns is a Palmdale, CA custom print shop built by hustlers, for hustlers. Custom apparel, embroidery, and merchandise — no job too small or too large.",
 };
 
 const values = [
@@ -55,7 +55,7 @@ export default function AboutPage() {
               <span className="text-gold-400">Into Reality</span>
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-zinc-300">
-              Hustle Hard 4 US Designs was built the same way our customers build their
+              Hustlehard4USDesigns was built the same way our customers build their
               dreams — from scratch, with grind. We started printing for local
               entrepreneurs in the Antelope Valley who needed someone to take their
               ideas as seriously as they did. Today we produce custom apparel,
@@ -141,7 +141,7 @@ export default function AboutPage() {
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl border border-ink-700">
               <Image
                 src="/images/products/gang-sheet.jpg"
-                alt="DTF gang sheet production at Hustle Hard 4 US Designs"
+                alt="DTF gang sheet production at Hustlehard4USDesigns"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"

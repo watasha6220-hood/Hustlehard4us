@@ -5,7 +5,7 @@ import { Reveal } from "@/components/Section";
 export const metadata = {
   title: "Recent Work — Real Jobs, Real Results",
   description:
-    "See real custom printing jobs from Hustle Hard 4 US Designs: t-shirt runs, banners, embroidery, 3D prints, and event displays for Antelope Valley brands and businesses.",
+    "See real custom printing jobs from Hustlehard4USDesigns: t-shirt runs, banners, embroidery, 3D prints, and event displays for Antelope Valley brands and businesses.",
 };
 
 export default function WorkPage() {

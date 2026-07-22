@@ -2,7 +2,7 @@
   "name": "hh4us-designs",
   "version": "1.0.0",
   "private": true,
-  "description": "Hustle Hard 4 US Designs — custom printing website (Next.js + Tailwind + Framer Motion)",
+  "description": "Hustlehard4USDesigns — custom printing website (Next.js + Tailwind + Framer Motion)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

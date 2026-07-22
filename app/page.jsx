@@ -11,7 +11,7 @@ import CTABanner from "@/components/CTABanner";
 import { services } from "@/data/services";
 
 export const metadata = {
-  title: "Custom Printing in Palmdale, CA | Hustle Hard 4 US Designs",
+  title: "Custom Printing in Palmdale, CA | Hustlehard4USDesigns",
   description:
     "Custom t-shirts, banners, DTF gang sheets, embroidery & displays in Palmdale, CA. Bring your ideas to life — get a free quote today.",
 };
@@ -49,7 +49,7 @@ export default function HomePage() {
       <section className="relative flex min-h-[88vh] items-center overflow-hidden" aria-label="Hero">
         <Image
           src="/images/hero.jpg"
-          alt="Inside the Hustle Hard 4 US Designs print shop"
+          alt="Inside the Hustlehard4USDesigns print shop"
           fill
           priority
           sizes="100vw"

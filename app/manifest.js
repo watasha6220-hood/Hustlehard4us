@@ -3,7 +3,7 @@
 
 export default function manifest() {
   return {
-    name: "Hustle Hard 4 US Designs",
+    name: "Hustlehard4USDesigns",
     short_name: "HH4US",
     description: "Custom printing for brands, events, and hustlers — Palmdale, CA.",
     start_url: "/",

@@ -45,7 +45,7 @@ function customerHtml(name: string, kind: string, lang: string) {
     return `
     <div style="font-family:Arial,sans-serif;background:#101014;color:#eee;padding:32px;border-radius:12px">
       <h2 style="color:${gold};text-transform:uppercase">¡Recibido, ${name}! 💪</h2>
-      <p>Tu solicitud llegó a <strong>Hustle Hard 4 US Designs</strong>.</p>
+      <p>Tu solicitud llegó a <strong>Hustlehard4USDesigns</strong>.</p>
       <p>Te respondemos dentro de <strong>1 día hábil</strong> — normalmente mucho más rápido.</p>
       <p>¿Lo necesitas antes? Llama o manda texto al <a href="tel:+12138413068" style="color:${gold}">(213) 841-3068</a>. Se habla español.</p>
       <p style="color:#888;font-size:12px;margin-top:24px">4654 Ave S, Suite #187, Palmdale, CA 93552</p>
@@ -54,7 +54,7 @@ function customerHtml(name: string, kind: string, lang: string) {
   return `
   <div style="font-family:Arial,sans-serif;background:#101014;color:#eee;padding:32px;border-radius:12px">
     <h2 style="color:${gold};text-transform:uppercase">Got it, ${name}! 💪</h2>
-    <p>Your ${kind} just landed at <strong>Hustle Hard 4 US Designs</strong>.</p>
+    <p>Your ${kind} just landed at <strong>Hustlehard4USDesigns</strong>.</p>
     <p>We'll get back to you within <strong>1 business day</strong> — usually much faster.</p>
     <p>Need it sooner? Call or text <a href="tel:+12138413068" style="color:${gold}">(213) 841-3068</a>.</p>
     <p style="color:#888;font-size:12px;margin-top:24px">4654 Ave S, Suite #187, Palmdale, CA 93552</p>

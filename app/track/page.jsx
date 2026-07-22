@@ -4,7 +4,7 @@ import { Reveal } from "@/components/Section";
 export const metadata = {
   title: "Track Your Order",
   description:
-    "Check the status of your custom printing, gang sheet, or 3D print order from Hustle Hard 4 US Designs.",
+    "Check the status of your custom printing, gang sheet, or 3D print order from Hustlehard4USDesigns.",
 };
 
 export default function TrackPage() {
