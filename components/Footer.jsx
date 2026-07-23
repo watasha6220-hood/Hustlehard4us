@@ -15,8 +15,8 @@ export default function Footer() {
               HH
             </span>
             <div className="leading-none">
-              <p className="font-display text-sm uppercase text-white">Hustle Hard 4 US</p>
-              <p className="text-[11px] font-bold uppercase tracking-[0.35em] text-gold-400">Designs</p>
+              <p className="font-display text-sm uppercase text-white">Hustlehard4USDesigns</p>
+              <p className="text-[11px] font-bold uppercase tracking-[0.35em] text-gold-400">Hustlehard4USDesigns</p>
             </div>
           </div>
           <p className="mb-5 text-sm leading-relaxed text-zinc-400">

@@ -50,10 +50,10 @@ export default function Navbar() {
           </span>
           <span className="hidden flex-col leading-none sm:flex">
             <span className="font-display text-sm uppercase tracking-wide text-white">
-              Hustle Hard 4 US
+              Hustlehard4USDesigns
             </span>
             <span className="text-[11px] font-bold uppercase tracking-[0.35em] text-gold-400">
-              Designs
+              Hustlehard4USDesigns
             </span>
           </span>
         </Link>
